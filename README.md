@@ -38,7 +38,9 @@ PowerShell
 
 CEH Master  
 Cisco CCNA  
-BSc Computer Science  
+ITIL
+HIPAA
+ISO/IEC 27001 LA/LI
 OSCP (In Progress)
 
 ---
