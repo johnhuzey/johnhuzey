@@ -36,12 +36,12 @@ PowerShell
 
 ## Certifications
 
-CEH Master  
-Cisco CCNA  
-ITIL
-HIPAA
-ISO/IEC 27001 LA/LI
-OSCP (In Progress)
+- CEH Master  
+- Cisco CCNA  
+- ITIL
+- HIPAA
+- ISO/IEC 27001 LA/LI
+- OSCP (In Progress)
 
 ---
 
