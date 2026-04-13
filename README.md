@@ -1,16 +1,77 @@
-## Hi there 👋
+# John Raymond Huzey
 
-<!--
-**johnhuzey/johnhuzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Penetration Tester |CCNA |ITIL | CEH Master | ISO 27001 LI/LA | BSc Computer Science | HND EEE | 
+OSCP Candidate (2026)
 
-Here are some ideas to get you started:
+Cybersecurity professional specializing in penetration testing, network security, and vulnerability assessment. I focus on identifying real-world attack paths and delivering actionable security recommendations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+**Penetration Testing**
+- Network Penetration Testing
+- Web Application Security
+- Active Directory Attacks
+- Privilege Escalation
+
+**Security Tools**
+
+Nmap  
+Burp Suite  
+Metasploit  
+Wireshark  
+BloodHound  
+Nessus  
+Hydra  
+Impacket
+
+**Programming**
+
+Python  
+Bash  
+PowerShell  
+
+---
+
+## Certifications
+
+CEH Master  
+Cisco CCNA  
+BSc Computer Science  
+OSCP (In Progress)
+
+---
+
+## Featured Projects
+
+### Active Directory Attack Lab
+Full enterprise attack simulation including:
+- Kerberoasting
+- Lateral movement
+- Privilege escalation
+- Domain compromise
+
+### Web Application Pentest
+OWASP Top 10 vulnerability exploitation using Juice Shop.
+
+### Metasploitable2 Full Penetration Test
+End-to-end penetration testing methodology.
+
+### Python Pentesting Tools
+Custom-built security automation tools.
+
+---
+
+## Security Platforms
+
+HackTheBox  
+TryHackMe  
+PortSwigger Web Security Academy  
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/johnray981/  
+Email:
